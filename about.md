@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About
+title: Out of water: A fisherman/medic turned data scientsists
 permalink: /about/
 ---
 
-Some information about you!
+Hello all, and welcome! This is a story about a young man who sailed the seas and found that a life of data and science was a life to live.
 
 ### More Information
 
@@ -12,4 +12,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[clayton.riordan@gmail.com](mailto:clayton.riordan@gmail.com)
